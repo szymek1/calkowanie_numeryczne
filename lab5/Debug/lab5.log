@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+D:\projekty infromatyka\lab5\lab5\lab5.cpp(62,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  lab5.vcxproj -> D:\projekty infromatyka\lab5\Debug\lab5.exe
